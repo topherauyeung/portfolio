@@ -2,3 +2,6 @@ node_modules
 npm-debug.log
 .DS_STORE
 *.swp
+_site
+.sass-cache
+.jekyll-metadata
