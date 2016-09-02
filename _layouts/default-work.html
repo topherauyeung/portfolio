@@ -12,6 +12,7 @@
 
     <link rel="stylesheet" href="/css/tachyons.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="/js/imagesloaded.pkgd.min.js"></script>
     <script src="/js/packery.pkgd.min.js"></script>
 
   </head>
@@ -23,17 +24,15 @@
     {% include footer.html %}
 
     <script>
-      // init Packery
-      var $grid = $('.grid').packery({
-        // options
-        itemSelector: '.grid-item',
-        transitionDuration: '0.2s',
-        percentPosition: true,
-        gutter: 0
-      });
-      // layout Packery after each image loads
-      $grid.imagesLoaded().progress( function() {
-        $grid.packery();
+      var $grid = $('.grid').imagesLoaded( function() {
+        // init Packery after all images have loaded
+        $grid.packery({
+          // options
+          itemSelector: '.grid-item',
+          transitionDuration: '0.2s',
+          percentPosition: true,
+          gutter: 0
+        });
       });
     </script>
 
