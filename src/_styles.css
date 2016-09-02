@@ -6,3 +6,66 @@
 
 */
 
+html {
+  overflow-y: scroll;
+}
+
+/** HERO IMAGES **/
+.hero-home {
+  background-image: url('/assets/photos/texture-01.jpg');
+  background-repeat: no-repeat;
+}
+
+.hero-about {
+  background-image: url('/assets/photos/me.jpg');
+  background-position: bottom center;
+  background-repeat: no-repeat;
+}
+
+
+/** PROJECT IMAGES **/
+.loaves-1 {
+  background-image: url('/assets/work/loaves/composed-ingredients.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.loaves-2 {
+  background-image: url('/assets/work/loaves/mobile-screens.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.loaves-3 {
+  background-image: url('/assets/work/loaves/loaves-box.jpg');
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+}
+.loaves-3:hover {
+  background-position: top right;
+}
+
+.loaves-illy-1:before {
+  content: '';
+  background: url("/assets/work/loaves/illustration-01.png") no-repeat center center;
+  background-size: 100%;
+  position: absolute;
+  width: 10rem;
+  height: 10rem;
+  bottom: -2rem;
+  right: 2rem;
+  z-index: 999;
+}
+
+.loaves-illy-2:after {
+  content: '';
+  background: url("/assets/work/loaves/illustration-02.png") no-repeat center center;
+  background-size: 100%;
+  position: absolute;
+  width: 10rem;
+  height: 10rem;
+  top: -5rem;
+  right: 4rem;
+  z-index: 999;
+}

@@ -26,5 +26,4 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
 exclude: ['build', 'bower.json', 'license', 'node_modules', 'package.json', 'readme.md', 'src']

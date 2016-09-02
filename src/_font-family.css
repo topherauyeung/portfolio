@@ -16,7 +16,8 @@
 }
 
 .serif {
-  font-family: georgia,
+  font-family: 'Charter',
+               georgia,
                times,
                serif;
 }
@@ -91,3 +92,8 @@ code, .code {
                serif;
 }
 
+.charter {
+  font-family: 'Charter',
+               georgia,
+               serif;
+}

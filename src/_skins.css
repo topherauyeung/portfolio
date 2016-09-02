@@ -140,6 +140,9 @@
 .light-pink { color: var(--light-pink); }
 .light-yellow { color: var(--light-yellow); }
 .light-red { color: var(--light-red); }
+.olive { color: var(--olive); }
+.mint { color: var(--mint); }
+.teal { color: var(--teal); }
 
 .bg-black-90 {         background-color: var(--black-90); }
 .bg-black-80 {         background-color: var(--black-80); }
@@ -161,7 +164,9 @@
 .bg-white-20 {        background-color: var(--white-20); }
 .bg-white-10 {        background-color: var(--white-10); }
 
-
+.bg-olive-90 {         background-color: var(--olive-90); }
+.bg-loaves-red-90 {         background-color: var(--loaves-red-90); }
+.bg-near-white-90 { background-color: var(--near-white-90);}
 
 /* Background colors */
 
@@ -201,6 +206,8 @@
 .bg-light-pink { background-color: var(--light-pink); }
 .bg-light-yellow { background-color: var(--light-yellow); }
 .bg-light-red { background-color: var(--light-red); }
+.bg-teal { background-color: var(--teal); }
+.bg-loaves-red { background-color: var(--loaves-red); }
 
 /* Skins for specific pseudoclasses */
 
@@ -252,3 +259,6 @@
 .hover-bg-light-pink:hover { background-color: var(--light-pink); }
 .hover-bg-light-yellow:hover { background-color: var(--light-yellow); }
 .hover-bg-light-red:hover { background-color: var(--light-red); }
+
+.titular-underline-teal { border-bottom: 5px solid; border-color: var(--teal);}
+.titular-underline-mint { border-bottom: 5px solid; border-color: var(--mint);}
