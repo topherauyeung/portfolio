@@ -24,13 +24,13 @@ permalink: /about/
 
 <section class="mw-100 mw8-ns center pv0 ph4 z-1 relative">
   <p class="f3 lh-copy mt5">
-    More about me aside from that excessively long treatise about my name: I’m a two-time graduate school dropout (<a href="https://www.bethel.edu/seminary/academics/marital-family-therapy/" class="olive dim no-underline"><b>1</b></a>, <a href="http://www.academyart.edu/academics/web-design/graduate" class="olive dim no-underline"><b>2</b></a>), though I did finish my undergraduate degree in Biology at UC San Diego.
+    More about me aside from that excessively long treatise about my name: I’m a two-time graduate school dropout (<a href="https://www.bethel.edu/seminary/academics/marital-family-therapy/" class="olive dim"><b>one</b></a>, <a href="http://www.academyart.edu/academics/web-design/graduate" class="olive dim"><b>two</b></a>), though I did finish my undergraduate degree in Biology at UC San Diego.
   </p>
   <p class="f3 lh-copy">
-    I originally fell in love with design in junior high, because of a site called <a href="http://neopets.com" class="olive dim no-underline"><b>Neopets</b></a>. (Apparently, lots of other designers have a <a href="https://twitter.com/soopa/status/716391958726336512" class="olive dim no-underline"><b>similar story</b></a>.) That hobby has since turned into a full-fledged career, which is good because I really hated biology.
+    I originally fell in love with design in junior high, because of a site called <a href="http://neopets.com" class="olive dim"><b>Neopets</b></a>. (Apparently, lots of other designers have a <a href="https://twitter.com/soopa/status/716391958726336512" class="olive dim"><b>similar story</b></a>.) That hobby has since turned into a full-fledged career, which is good because I really hated biology.
   </p>
   <p class="f3 mb4 lh-copy">
-    Interested in what I’ve done? You can peek at my <a href="https://twitter.com/soopa/status/716391958726336512" class="olive dim no-underline"><b>resumé</b></a>.
+    Interested in what I’ve done? You can peek at my <a href="https://twitter.com/soopa/status/716391958726336512" class="olive dim"><b>resumé</b></a>.
   </p>
 
   <h2 class="mb3 fw6 f4 ttu tracked titular-underline-teal pb2 pr3 dib">Listening</h2>
@@ -103,7 +103,7 @@ permalink: /about/
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
       <h3 class="ml0 mv0 lh-title"><a href="https://www.amazon.com/Spiritual-Friendship-Finding-Celibate-Christian/dp/1587433494/" class="olive dim no-underline"><strong class="serif fw6 f3">Spiritual Friendship</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
-        A celibate gay Christian makes the case against the insular nature of the nuclear American family, and advocates for intimate, committed friendships that last a lifetime
+        Making the case against the insular nature of the nuclear American family, and advocating for intimate, committed friendships that last a lifetime
       </p>
       <small class="f5 fw7 ttu tracked silver mv0">Wesley Hill</small>
     </div>
@@ -117,7 +117,7 @@ permalink: /about/
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
       <h3 class="ml0 mv0 lh-title"><a href="https://www.gog.com/game/stardew_valley" class="olive dim no-underline"><strong class="serif fw6 f3">Stardew Valley</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
-        An addictive modern take on the classic <a href="https://en.wikipedia.org/wiki/Harvest_Moon_(video_game)" class="olive dim no-underline"><b>Harvest Moon</b></a>
+        An addictive modern take on the original farming RPG <a href="https://en.wikipedia.org/wiki/Harvest_Moon_(video_game)" class="olive dim"><b>Harvest Moon</b></a>
       </p>
       <small class="f5 fw7 ttu tracked silver mv0">ConcernedApe</small>
     </div>

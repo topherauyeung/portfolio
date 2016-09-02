@@ -667,6 +667,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .h4 { height: 8rem; }
 .h5 { height: 16rem; }
 .h6 { height: 24rem; }
+.h7 { height: 32rem; }
 /* Height Percentages */
 .h-25 { height: 25%; }
 .h-50 { height: 50%; }
@@ -1368,6 +1369,7 @@ html { overflow-y: scroll; }
 .loaves-2 { background-image: url( '/assets/work/loaves/mobile-screens.png' ); background-position: center center; background-repeat: no-repeat; }
 .loaves-3 { background-image: url( '/assets/work/loaves/loaves-box.jpg' ); background-position: top left; background-repeat: no-repeat; background-size: auto 100%; }
 .loaves-3:hover { background-position: top right; }
+.lex-1 { background-image: url( '/assets/work/lex/screenshots-big.jpg' ); background-position: center center; background-repeat: no-repeat; }
 /* Variables */
 /* Importing here will allow you to override any variables in the modules */
 /*
@@ -1562,6 +1564,7 @@ html { overflow-y: scroll; }
  .h4-ns { height: 8rem; }
  .h5-ns { height: 16rem; }
  .h6-ns { height: 24rem; }
+ .h7-ns { height: 32rem; }
  .h-25-ns { height: 25%; }
  .h-50-ns { height: 50%; }
  .h-75-ns { height: 75%; }
@@ -1902,6 +1905,7 @@ html { overflow-y: scroll; }
  .h4-m { height: 8rem; }
  .h5-m { height: 16rem; }
  .h6-m { height: 24rem; }
+ .h7-m { height: 32rem; }
  .h-25-m { height: 25%; }
  .h-50-m { height: 50%; }
  .h-75-m { height: 75%; }
@@ -2240,6 +2244,7 @@ html { overflow-y: scroll; }
  .h4-l { height: 8rem; }
  .h5-l { height: 16rem; }
  .h6-l { height: 24rem; }
+ .h7-l { height: 32rem; }
  .h-25-l { height: 25%; }
  .h-50-l { height: 50%; }
  .h-75-l { height: 75%; }

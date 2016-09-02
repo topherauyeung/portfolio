@@ -7,7 +7,7 @@ permalink: /slds/
 <section class="mw-100 mw8-ns center ph4 z-1 relative mb4 mb5-ns mt6 mt0-ns">
   <h3 class="ml0 mv0 lh-title"><b class="serif fw6 f2">Lightning Design System</b></h3>
   <p class="f4 mh0 lh-copy mt2 mb3">
-    We created the <a href="http://lightningdesignsystem.com" class="olive dim no-underline"><b>Lightning Design System</b></a> at Salesforce UX as a tool to enable designers and developers to create beautiful and intuitive experiences on the Salesforce platform by providing components and robust pattern guidelines. It also serves as a living, breathing representation of the current state of Salesforce’s product design language. It is actively maintained by the Design Systems team, which I founded and managed.
+    We created the <a href="http://lightningdesignsystem.com" class="olive dim"><b>Lightning Design System</b></a> at Salesforce UX as a tool to enable designers and developers to create beautiful and intuitive experiences on the Salesforce platform by providing components and robust pattern guidelines. It also serves as a living, breathing representation of the current state of Salesforce’s product design language. It is actively maintained by the Design Systems team, which I founded and managed.
   </p>
   <small class="f5 fw7 mh0 ttu tracked silver mt0 lh-copy">Role: Team Leadership, Creative Direction, Copywriting</small>
 </section>
