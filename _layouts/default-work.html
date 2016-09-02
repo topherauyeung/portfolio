@@ -23,12 +23,17 @@
     {% include footer.html %}
 
     <script>
-      $('.grid').packery({
+      // init Packery
+      var $grid = $('.grid').packery({
         // options
         itemSelector: '.grid-item',
         transitionDuration: '0.2s',
         percentPosition: true,
         gutter: 0
+      });
+      // layout Packery after each image loads
+      $grid.imagesLoaded().progress( function() {
+        $grid.packery();
       });
     </script>
 
