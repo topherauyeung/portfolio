@@ -12,50 +12,44 @@ permalink: /slds/
   <small class="f5 fw7 mh0 ttu tracked silver mt0 lh-copy">Role: Team Leadership, Creative Direction, Copywriting</small>
 </section>
 
-<!--<section class="mw-100 mw8 center pa0 relative grid mt4 mt5-ns">
-  <div class="w-100 grid-item tc hide-child">
-    <img src="/assets/work/slds/screenshot-01.jpg" alt="lightning design system screenshot" class="mw-100">
-  </div>
-</section>-->
-
 <section class="mw-100 mw9 center pa0 relative grid mb0">
-  <div class="w-50-l w-100 grid-item hide-child">
+  <div class="w-50-l w-100 grid-item load-one hide-child">
     <div class="w-100 h-100 bg-near-white-90 absolute child">
       <a href="http://lightningdesignsystem.com/guidelines/overview/" class="dib pa4 dark-gray f2 f-4-m f-5-l fw6 absolute absolute--fill v-btm">View our<br> Design<br> Guidelines</a>
     </div>
     <img src="/assets/work/slds/screenshot-guidelines.jpg" alt="design system guidelines" class="mw-100">
   </div>
-  <div class="w-50-l w-100 grid-item hide-child">
+  <div class="w-50-l w-100 grid-item load-two hide-child">
     <div class="w-100 h-100 bg-near-white-90 absolute child">
       <a href="http://lightningdesignsystem.com/icons/" class="dib pa4 dark-gray f2 f-4-ns fw6 absolute absolute--fill v-btm">View our<br> Icons</a>
     </div>
     <img src="/assets/work/slds/icon-set.png" alt="icon family" class="mw-100">
   </div>
-  <div class="w-50-l w-100 grid-item relative">
+  <div class="w-50-l w-100 grid-item load-three relative">
     <img src="/assets/work/slds/shapes.png" alt="shapes" class="mw-100">
   </div>
-  <div class="w-33-l w-50-m w-100 grid-item">
+  <div class="w-33-l w-50-m w-100 grid-item load-four">
     <img src="/assets/work/slds/scout-books.jpg" alt="scout books" class="mw-100">
   </div>
-  <div class="w-33-l w-50-m w-100 grid-item hide-child">
+  <div class="w-33-l w-50-m w-100 grid-item load-five hide-child">
     <div class="w-100 h-100 bg-near-white-90 absolute child">
       <a href="http://lightningdesignsystem.com/components/activity-timeline/" class="dib pa4 dark-gray f2 f-4-ns fw6 absolute absolute--fill v-btm">View our<br> Compo-<br>nents</a>
     </div>
     <img src="/assets/work/slds/screenshot-page-headers.jpg" alt="page header component" class="mw-100">
   </div>
-  <div class="w-33-l w-50-m w-100 grid-item hide-child">
+  <div class="w-33-l w-50-m w-100 grid-item load-six hide-child">
     <div class="w-100 h-100 bg-near-white-90 absolute child">
       <a href="http://lightningdesignsystem.com/tokens/" class="dib pa4 dark-gray f2 f-4-ns fw6 absolute absolute--fill v-btm">View our<br> Design<br> Tokens</a>
     </div>
     <img src="/assets/work/slds/screenshot-tokens.jpg" alt="design tokens" class="mw-100">
   </div>
-  <div class="w-50-ns w-100 grid-item hide-child">
+  <div class="w-50-ns w-100 grid-item load-seven hide-child">
     <div class="w-100 h-100 bg-near-white-90 absolute child">
       <a href="https://github.com/salesforce-ux/design-system" class="dib pa4 dark-gray f2 f-4-m f-5-l fw6 absolute absolute--fill v-btm">View our<br> Github<br> Repo</a>
     </div>
     <img src="/assets/work/slds/screenshot-github.jpg" alt="github" class="mw-100">
   </div>
-  <div class="w-50 w-100-m dn dib-ns grid-item">
+  <div class="w-50 w-100-m dn dib-ns grid-item load-eight">
     <img src="/assets/work/slds/utility-icons.png" alt="utility icon family" class="mw-100">
   </div>
 </section>

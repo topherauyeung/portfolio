@@ -13,47 +13,47 @@ permalink: /loaves/
 </section>
 
 <section class="mw-100 mw8 center pa0 relative grid mb2 mb5-ns">
-  <div class="w-100 grid-item loaves-1 cover h5 h6-ns">
+  <div class="w-100 grid-item load-one loaves-1 cover h5 h6-ns">
   </div>
 </section>
 
 <section class="mw-100 mw9 center pa0 relative grid mb0 tr">
-  <div class="w-50-ns w-100 grid-item loaves-3">
+  <div class="w-50-ns w-100 grid-item load-two loaves-3">
     <img src="/assets/work/loaves/loaves-box-placeholder.png" alt="loaves meal kit" class="mw-100">
   </div>
-  <div class="w-50-ns w-100 grid-item relative loaves-illy-2 hide-child">
+  <div class="w-50-ns w-100 grid-item load-three relative loaves-illy-2 hide-child">
     <div class="w-100 h-100 bg-near-white-90 absolute child">
       <a href="http://loav.es" class="dib pa4 olive f2 f-5-l fw6 absolute absolute--fill v-btm">View the<br> Loaves<br> Website</a>
     </div>
     <img src="/assets/work/loaves/screenshot.jpg" alt="loaves screenshot" class="mw-100">
   </div>
-  <div class="w-50-ns w-100 grid-item">
+  <div class="w-50-ns w-100 grid-item load-four">
     <img src="/assets/work/loaves/screenshot-03.jpg" alt="subscription pricing" class="mw-100">
   </div>
-  <div class="w-50-ns w-100 grid-item">
+  <div class="w-50-ns w-100 grid-item load-five">
     <img src="/assets/work/loaves/screenshot-02.jpg" alt="weekly menu" class="mw-100">
   </div>
-  <div class="w-50-ns w-100 grid-item">
+  <div class="w-50-ns w-100 grid-item load-six">
     <img src="/assets/work/loaves/flow-chart.jpg" alt="end user flow diagram" class="mw-100">
   </div>
-  <div class="w-50-ns w-100 grid-item">
+  <div class="w-50-ns w-100 grid-item load-seven">
     <img src="/assets/work/loaves/menu-items.gif" alt="food photos" class="mw-100">
   </div>
 </section>
 
 <section class="mw-100 mw8 center pa0 relative grid mt4 mb4">
-  <div class="w-100 grid-item loaves-2 cover h5 h6-ns">
+  <div class="w-100 grid-item load-eight loaves-2 cover h5 h6-ns">
   </div>
 </section>
 
 <section class="mw-100 mw9 center pa0 relative grid mb0">
-  <div class="w-50-ns w-100 grid-item relative loaves-illy-1 hide-child">
+  <div class="w-50-ns w-100 grid-item load-nine relative loaves-illy-1 hide-child">
     <div class="w-100 h-100 bg-near-white-90 absolute child">
       <a href="http://recipes.loav.es" class="dib pa4 olive f2 f-5-l fw6 absolute absolute--fill">View the<br> Recipe<br> Library</a>
     </div>
     <img src="/assets/work/loaves/screenshot-05.png" alt="loaves screenshot" class="mw-100">
   </div>
-  <div class="w-50-ns w-100 grid-item">
+  <div class="w-50-ns w-100 grid-item load-ten">
     <img src="/assets/work/loaves/screenshot-04.png" alt="loaves screenshot" class="mw-100">
   </div>
 </section>

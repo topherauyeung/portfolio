@@ -10,6 +10,82 @@ html {
   overflow-y: scroll;
 }
 
+.grid-item { 
+  opacity: 0;
+  -webkit-animation:fadeIn ease-in 1;
+  -moz-animation:fadeIn ease-in 1;
+  animation:fadeIn ease-in 1;
+ 
+  -webkit-animation-fill-mode:forwards;
+  -moz-animation-fill-mode:forwards;
+  animation-fill-mode:forwards;
+ 
+  -webkit-animation-duration:0.5s;
+  -moz-animation-duration:0.5s;
+  animation-duration:0.5s; 
+} 
+
+.load-one {
+  -webkit-animation-delay:0s;
+  -moz-animation-delay:0s;
+  animation-delay:0s;
+}
+.load-two {
+  -webkit-animation-delay:0.25s;
+  -moz-animation-delay:0.25s;
+  animation-delay:0.25s;
+}
+.load-three {
+  -webkit-animation-delay:0.5s;
+  -moz-animation-delay:0.5s;
+  animation-delay:0.5s;
+}
+.load-four {
+  -webkit-animation-delay:0.75s;
+  -moz-animation-delay:0.75s;
+  animation-delay:0.75s;
+}
+.load-five {
+  -webkit-animation-delay:1s;
+  -moz-animation-delay:1s;
+  animation-delay:1s;
+}
+.load-six {
+  -webkit-animation-delay:1.25s;
+  -moz-animation-delay:1.25s;
+  animation-delay:1.25s;
+}
+.load-seven {
+  -webkit-animation-delay:1.5s;
+  -moz-animation-delay:1.5s;
+  animation-delay:1.5s;
+}
+.load-eight {
+  -webkit-animation-delay:1.75s;
+  -moz-animation-delay:1.75s;
+  animation-delay:1.75s;
+}
+.load-nine {
+  -webkit-animation-delay:2s;
+  -moz-animation-delay:2s;
+  animation-delay:2s;
+}
+.load-ten {
+  -webkit-animation-delay:2.25s;
+  -moz-animation-delay:2.25s;
+  animation-delay:2.25s;
+}
+.load-eleven {
+  -webkit-animation-delay:2.5s;
+  -moz-animation-delay:2.5s;
+  animation-delay:2.5s;
+}
+.load-twelve {
+  -webkit-animation-delay:2.75s;
+  -moz-animation-delay:2.75s;
+  animation-delay:2.75s;
+}
+
 /** HERO IMAGES **/
 .hero-home {
   background-image: url('/assets/photos/texture-01.jpg');
@@ -46,26 +122,28 @@ html {
   background-position: top right;
 }
 
-.loaves-illy-1:before {
-  content: '';
-  background: url("/assets/work/loaves/illustration-01.png") no-repeat center center;
-  background-size: 100%;
-  position: absolute;
-  width: 10rem;
-  height: 10rem;
-  bottom: -2rem;
-  right: 2rem;
-  z-index: 999;
-}
+@media (--breakpoint-not-small) {
+  .loaves-illy-1:before {
+    content: '';
+    background: url("/assets/work/loaves/illustration-01.png") no-repeat center center;
+    background-size: 100%;
+    position: absolute;
+    width: 10rem;
+    height: 10rem;
+    bottom: -2rem;
+    right: 2rem;
+    z-index: 999;
+  }
 
-.loaves-illy-2:after {
-  content: '';
-  background: url("/assets/work/loaves/illustration-02.png") no-repeat center center;
-  background-size: 100%;
-  position: absolute;
-  width: 10rem;
-  height: 10rem;
-  top: -5rem;
-  right: 4rem;
-  z-index: 999;
+  .loaves-illy-2:after {
+    content: '';
+    background: url("/assets/work/loaves/illustration-02.png") no-repeat center center;
+    background-size: 100%;
+    position: absolute;
+    width: 10rem;
+    height: 10rem;
+    top: -5rem;
+    right: 4rem;
+    z-index: 1000;
+  }
 }

@@ -1347,6 +1347,19 @@ code, .code { font-family: Consolas, monaco, monospace; }
 
 */
 html { overflow-y: scroll; }
+.grid-item { opacity: 0; -webkit-animation: fadeIn ease-in 1; -moz-animation: fadeIn ease-in 1; animation: fadeIn ease-in 1; -webkit-animation-fill-mode: forwards; -moz-animation-fill-mode: forwards; animation-fill-mode: forwards; -webkit-animation-duration: 0.5s; -moz-animation-duration: 0.5s; animation-duration: 0.5s; }
+.load-one { -webkit-animation-delay: 0s; -moz-animation-delay: 0s; animation-delay: 0s; }
+.load-two { -webkit-animation-delay: 0.25s; -moz-animation-delay: 0.25s; animation-delay: 0.25s; }
+.load-three { -webkit-animation-delay: 0.5s; -moz-animation-delay: 0.5s; animation-delay: 0.5s; }
+.load-four { -webkit-animation-delay: 0.75s; -moz-animation-delay: 0.75s; animation-delay: 0.75s; }
+.load-five { -webkit-animation-delay: 1s; -moz-animation-delay: 1s; animation-delay: 1s; }
+.load-six { -webkit-animation-delay: 1.25s; -moz-animation-delay: 1.25s; animation-delay: 1.25s; }
+.load-seven { -webkit-animation-delay: 1.5s; -moz-animation-delay: 1.5s; animation-delay: 1.5s; }
+.load-eight { -webkit-animation-delay: 1.75s; -moz-animation-delay: 1.75s; animation-delay: 1.75s; }
+.load-nine { -webkit-animation-delay: 2s; -moz-animation-delay: 2s; animation-delay: 2s; }
+.load-ten { -webkit-animation-delay: 2.25s; -moz-animation-delay: 2.25s; animation-delay: 2.25s; }
+.load-eleven { -webkit-animation-delay: 2.5s; -moz-animation-delay: 2.5s; animation-delay: 2.5s; }
+.load-twelve { -webkit-animation-delay: 2.75s; -moz-animation-delay: 2.75s; animation-delay: 2.75s; }
 /** HERO IMAGES **/
 .hero-home { background-image: url( '/assets/photos/texture-01.jpg' ); background-repeat: no-repeat; }
 .hero-about { background-image: url( '/assets/photos/me.jpg' ); background-position: bottom center; background-repeat: no-repeat; }
@@ -1355,8 +1368,6 @@ html { overflow-y: scroll; }
 .loaves-2 { background-image: url( '/assets/work/loaves/mobile-screens.png' ); background-position: center center; background-repeat: no-repeat; }
 .loaves-3 { background-image: url( '/assets/work/loaves/loaves-box.jpg' ); background-position: top left; background-repeat: no-repeat; background-size: auto 100%; }
 .loaves-3:hover { background-position: top right; }
-.loaves-illy-1:before { content: ''; background: url( "/assets/work/loaves/illustration-01.png" ) no-repeat center center; background-size: 100%; position: absolute; width: 10rem; height: 10rem; bottom: -2rem; right: 2rem; z-index: 999; }
-.loaves-illy-2:after { content: ''; background: url( "/assets/work/loaves/illustration-02.png" ) no-repeat center center; background-size: 100%; position: absolute; width: 10rem; height: 10rem; top: -5rem; right: 4rem; z-index: 999; }
 /* Variables */
 /* Importing here will allow you to override any variables in the modules */
 /*
@@ -1753,6 +1764,8 @@ html { overflow-y: scroll; }
  .v-mid-ns { vertical-align: middle; }
  .v-top-ns { vertical-align: top; }
  .v-btm-ns { vertical-align: bottom; }
+ .loaves-illy-1:before { content: ''; background: url( "/assets/work/loaves/illustration-01.png" ) no-repeat center center; background-size: 100%; position: absolute; width: 10rem; height: 10rem; bottom: -2rem; right: 2rem; z-index: 999; }
+ .loaves-illy-2:after { content: ''; background: url( "/assets/work/loaves/illustration-02.png" ) no-repeat center center; background-size: 100%; position: absolute; width: 10rem; height: 10rem; top: -5rem; right: 4rem; z-index: 1000; }
 }
 @media screen and (min-width: 30em) and (max-width: 60em) {
  .cover-m { background-size: cover; }
