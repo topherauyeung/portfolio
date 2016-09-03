@@ -7,7 +7,7 @@ permalink: /grubbable/
 <section class="mw-100 mw8-ns center ph4 z-1 relative mb4 mb5-ns mt6 mt0-ns">
   <h3 class="ml0 mv0 lh-title"><b class="serif fw5 f2">Grubbable</b></h3>
   <p class="f4 mh0 lh-copy mt2 mb2">
-    <a href="http://grubbable.com" class="olive dim"><b>Grubbable</b></a> is a Detroit-based tech company working to grow and support the local food movement by connecting consumers to restaurants that serve locally-sourced food and drinks, and offering them discounts to dine at those restaurants. I came on as a short-term consultant to revamp their visual brand, marketing web presence, and cross-platform mobile app. I produced various print collateral and worked closely with their development teams and contractors to ship their website and mobile apps.
+    <a href="http://grubbable.com" class="olive highlight"><b>Grubbable</b></a> is a Detroit-based tech company working to grow and support the local food movement by connecting consumers to restaurants that serve locally-sourced food and drinks, and offering them discounts to dine at those restaurants. I came on as a short-term consultant to revamp their visual brand, marketing web presence, and cross-platform mobile app. I produced various print collateral and worked closely with their development teams and contractors to ship their website and mobile apps.
   </p>
   <i class="db f4 mh0 lh-copy mt0 mb3 silver">Note: the current implementation of their website and mobile app have deviated considerably from my initial implementation.</i>
   <small class="f5 fw7 mh0 ttu tracked silver mt0 lh-copy">Role: Graphic &amp; Product Design Consultant</small>

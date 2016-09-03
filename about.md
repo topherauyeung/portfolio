@@ -24,13 +24,13 @@ permalink: /about/
 
 <section class="mw-100 mw8-ns center pv0 ph4 z-1 relative">
   <p class="f3 lh-copy mt5">
-    More about me aside from that excessively long treatise about my name: I’m a two-time graduate school dropout (<a href="https://www.bethel.edu/seminary/academics/marital-family-therapy/" class="olive dim"><b>one</b></a>, <a href="http://www.academyart.edu/academics/web-design/graduate" class="olive dim"><b>two</b></a>), though I did finish my undergraduate degree in Biology at UC San Diego.
+    More about me aside from that excessively long treatise about my name: I’m a two-time graduate school dropout (<a href="https://www.bethel.edu/seminary/academics/marital-family-therapy/" class="olive highlight"><b>one</b></a>, <a href="http://www.academyart.edu/academics/web-design/graduate" class="olive highlight"><b>two</b></a>), though I did finish my undergraduate degree in Biology at UC San Diego.
   </p>
   <p class="f3 lh-copy">
-    I originally fell in love with design in junior high, because of a site called <a href="http://neopets.com" class="olive dim"><b>Neopets</b></a>. (Apparently, lots of other designers have a <a href="https://twitter.com/soopa/status/716391958726336512" class="olive dim"><b>similar story</b></a>.) That hobby has since turned into a full-fledged career, which is good because I really hated biology.
+    I originally fell in love with design in junior high, because of a site called <a href="http://neopets.com" class="olive highlight"><b>Neopets</b></a>. (Apparently, lots of other designers have a <a href="https://twitter.com/soopa/status/716391958726336512" class="olive highlight"><b>similar story</b></a>.) That hobby has since turned into a full-fledged career, which is good because I really hated biology.
   </p>
   <p class="f3 mb4 lh-copy">
-    Interested in what I’ve done? You can peek at my <a href="https://twitter.com/soopa/status/716391958726336512" class="olive dim"><b>resumé</b></a>.
+    Interested in what I’ve done? I suppose you can peek at my <a href="https://www.linkedin.com/in/cauyeung" class="olive highlight"><b>LinkedIn</b></a>.
   </p>
 
   <h2 class="mb3 fw6 f4 ttu tracked titular-underline-teal pb2 pr3 dib">Listening</h2>
@@ -39,7 +39,7 @@ permalink: /about/
       <img src="/assets/about/another-round.png" alt="Another Round" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="https://www.buzzfeed.com/anotherround" class="olive dim no-underline"><strong class="serif fw6 f3">Another Round</strong></a></h3>
+      <h3 class="ml0 mv0 lh-title"><a href="https://www.buzzfeed.com/anotherround" class="olive highlight no-underline"><strong class="serif fw5 f3">Another Round</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
         Two ridiculously delightful black women drink whiskey and talk culture, race, gender, and entertainment
       </p>
@@ -51,7 +51,7 @@ permalink: /about/
       <img src="/assets/about/the-weeds.png" alt="The Weeds" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="http://www.vox.com/the-weeds" class="olive dim no-underline"><strong class="serif fw6 f3">The Weeds</strong></a></h3>
+      <h3 class="ml0 mv0 lh-title"><a href="http://www.vox.com/the-weeds" class="olive highlight no-underline"><strong class="serif fw5 f3">The Weeds</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
         Policy and politics nerds having a weekly nerd-out over policy and politics
       </p>
@@ -63,7 +63,7 @@ permalink: /about/
       <img src="/assets/about/code-switch.png" alt="Code Switch" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="http://www.npr.org/podcasts/510312/codeswitch" class="olive dim no-underline"><strong class="serif fw6 f3">Code Switch</strong></a></h3>
+      <h3 class="ml0 mv0 lh-title"><a href="http://www.npr.org/podcasts/510312/codeswitch" class="olive highlight no-underline"><strong class="serif fw5 f3">Code Switch</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
         Race and ethnic identity: the podcast
       </p>
@@ -75,7 +75,7 @@ permalink: /about/
       <img src="/assets/about/1975.png" alt="the 1975" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4" class="olive dim no-underline"><strong class="serif fw6 f3">I like it when you sleep, for you are so beautiful yet so unaware of it</strong></a></h3>
+      <h3 class="ml0 mv0 lh-title"><a href="https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4" class="olive highlight no-underline"><strong class="serif fw5 f3">I like it when you sleep, for you are so beautiful yet so unaware of it</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
         Soulful and atmospheric alt-pop with catchy hooks, gorgeous instrumentation, and a fun 80’s flair
       </p>
@@ -89,7 +89,7 @@ permalink: /about/
       <img src="/assets/about/new-jim-crow.png" alt="The New Jim Crow" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="https://www.amazon.com/New-Jim-Crow-Incarceration-Colorblindness/dp/1595586431" class="olive dim no-underline"><strong class="serif fw6 f3">The New Jim Crow</strong></a></h3>
+      <h3 class="ml0 mv0 lh-title"><a href="https://www.amazon.com/New-Jim-Crow-Incarceration-Colorblindness/dp/1595586431" class="olive highlight no-underline"><strong class="serif fw5 f3">The New Jim Crow</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
         A compelling and comprehensive look at the racist history behind mass incarceration and the War on Drugs
       </p>
@@ -101,7 +101,7 @@ permalink: /about/
       <img src="/assets/about/spiritual-friendship.png" alt="Spiritual Friendship" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="https://www.amazon.com/Spiritual-Friendship-Finding-Celibate-Christian/dp/1587433494/" class="olive dim no-underline"><strong class="serif fw6 f3">Spiritual Friendship</strong></a></h3>
+      <h3 class="ml0 mv0 lh-title"><a href="https://www.amazon.com/Spiritual-Friendship-Finding-Celibate-Christian/dp/1587433494/" class="olive highlight no-underline"><strong class="serif fw5 f3">Spiritual Friendship</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
         Making the case against the insular nature of the nuclear American family, and advocating for intimate, committed friendships that last a lifetime
       </p>
@@ -115,9 +115,9 @@ permalink: /about/
       <img src="/assets/about/stardew-valley.png" alt="Stardew Valley" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="https://www.gog.com/game/stardew_valley" class="olive dim no-underline"><strong class="serif fw6 f3">Stardew Valley</strong></a></h3>
+      <h3 class="ml0 mv0 lh-title"><a href="https://www.gog.com/game/stardew_valley" class="olive highlight no-underline"><strong class="serif fw5 f3">Stardew Valley</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
-        An addictive modern take on the original farming RPG <a href="https://en.wikipedia.org/wiki/Harvest_Moon_(video_game)" class="olive dim"><b>Harvest Moon</b></a>
+        An addictive modern take on the original farming RPG <a href="https://en.wikipedia.org/wiki/Harvest_Moon_(video_game)" class="olive highlight"><b>Harvest Moon</b></a>
       </p>
       <small class="f5 fw7 ttu tracked silver mv0">ConcernedApe</small>
     </div>
