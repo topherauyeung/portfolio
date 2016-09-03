@@ -10,7 +10,7 @@ permalink: /about/
 
 <section class="w-100 bg-teal">
   <div class="mw-100 mw8-ns center pv4 ph4 z-1 relative mt0">
-    <h2 class="serif pb1 pr3 f2 titular-underline-mint lh-title mt0 mv3 dib">
+    <h2 class="serif fw5 pb1 pr3 f2 titular-underline-mint lh-title mt0 mv3 dib">
       Almost nobody calls me Topher in real life.
     </h2>
     <p class="f3 lh-copy">

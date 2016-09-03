@@ -4,8 +4,8 @@ title: lightning experience / topher - designer
 permalink: /lex/
 ---
 
-<section class="mw-100 mw8-ns center ph4 z-1 relative mb2 mb3-ns mt6 mt0-ns">
-  <h3 class="ml0 mv0 lh-title"><b class="serif fw6 f2">Lightning Experience</b></h3>
+<section class="mw-100 mw8-ns center ph4 z-1 relative mb3 mb3-ns mt6 mt0-ns">
+  <h3 class="ml0 mv0 lh-title"><b class="serif fw5 f2">Lightning Experience</b></h3>
   <p class="f4 mh0 lh-copy mt2 mb3">
     As a consistent leader in the CRM space, the core Salesforce product has been a mainstay for many businesses and sales organizations across the world, but it hadn’t been updated in close to 10 years. <a href="https://www.salesforce.com/blog/2015/08/future-of-crm-salesforce-lightning.html" class="olive dim"><b>Lightning Experience is Salesforce, modernized</b></a> - a brand new user experience, designed to foster productivity, efficiency, and intelligent decision-making for the user. I worked on the initial visual design language and provided ongoing visual design direction to the 30+ product designers working on Lightning. I also led all systems design efforts, coordinating with key design leads to ensure consistent interaction and visual design patterns across all feature areas.
   </p>
