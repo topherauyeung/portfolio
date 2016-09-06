@@ -23,14 +23,14 @@ permalink: /about/
 </section>
 
 <section class="mw-100 mw8-ns center pv0 ph4 z-1 relative">
-  <p class="f3 lh-copy mt5">
-    More about me aside from that excessively long treatise about my name: I’m a two-time graduate school dropout (<a href="https://www.bethel.edu/seminary/academics/marital-family-therapy/" class="olive highlight"><b>one</b></a>, <a href="http://www.academyart.edu/academics/web-design/graduate" class="olive highlight"><b>two</b></a>), though I did finish my undergraduate degree in Biology at UC San Diego.
+  <p class="f4 lh-copy mt5">
+    A random assortment of facts: I’m a two-time graduate school dropout (<a href="https://www.bethel.edu/seminary/academics/marital-family-therapy/" class="olive highlight"><b>one</b></a>, <a href="http://www.academyart.edu/academics/web-design/graduate" class="olive highlight"><b>two</b></a>), I obsessively watch every singing show on television, my drink of preference is oolong tea, organic chemistry was one of my favorite classes in college, Roller Coaster Tycoon was my favorite game as a kid, I frequently bemoan the lack of good Hainanese Chicken Rice in San Francisco, and I originally fell in love with design in junior high because of <a href="http://neopets.com" class="olive highlight"><b>Neopets</b></a> (which is apparently a <a href="https://twitter.com/soopa/status/716391958726336512" class="olive highlight"><b>common story</b></a>).
   </p>
-  <p class="f3 lh-copy">
-    I originally fell in love with design in junior high, because of a site called <a href="http://neopets.com" class="olive highlight"><b>Neopets</b></a>. (Apparently, lots of other designers have a <a href="https://twitter.com/soopa/status/716391958726336512" class="olive highlight"><b>similar story</b></a>.) That hobby has since turned into a full-fledged career, which is good because I really hated biology.
+  <p class="f4 lh-copy">
+    I strive to live my life, personally and professionally, at the intersection of my passion for design, my deeply held faith, my convictions about social justice, and my love of people and community.
   </p>
-  <p class="f3 mb4 lh-copy">
-    Interested in what I’ve done? I suppose you can peek at my <a href="https://www.linkedin.com/in/cauyeung" class="olive highlight"><b>LinkedIn</b></a>.
+  <p class="f4 mb4 lh-copy">
+    Interested in what I’ve done career-wise? Peek at my <a href="https://www.linkedin.com/in/cauyeung" class="olive highlight"><b>LinkedIn</b></a>.
   </p>
 
   <h2 class="mb3 fw6 f4 ttu tracked titular-underline-teal pb2 pr3 dib">Listening</h2>
