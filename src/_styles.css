@@ -159,3 +159,9 @@ html {
   background-position: center center;
   background-repeat: no-repeat;
 }
+
+.wave-1 {
+  background-image: url('/assets/work/wave/mobile-screens.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+}
