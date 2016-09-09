@@ -101,7 +101,7 @@
 .highlight:before {
   content: '';
   top: 15%;
-  left: -0.25rem;
+  left: -0.125rem;
   width: 0;
   height: 2rem;
   background-color: var(--moon-gray);
@@ -112,5 +112,5 @@
 
 .highlight:hover:before,
 .highlight:focus:before {
-  width: 105%;
+  width: 106%;
 }

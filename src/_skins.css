@@ -208,6 +208,7 @@
 .bg-light-red { background-color: var(--light-red); }
 .bg-teal { background-color: var(--teal); }
 .bg-loaves-red { background-color: var(--loaves-red); }
+.bg-olive {         background-color: var(--olive); }
 
 /* Skins for specific pseudoclasses */
 
