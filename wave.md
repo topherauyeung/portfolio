@@ -18,25 +18,25 @@ permalink: /wave/
 </section>
 
 <section class="mw-100 mw9 center pa0 relative grid mb0 bg-white">
-  <div class="w-40-l w-50-m w-100 grid-item load-two hide-child">
-    <img src="/assets/work/wave/chart-01.png" alt="dashboard" class="mw-100">
+  <div class="w-25-l w-50-m w-100 grid-item load-three hide-child">
+    <img src="/assets/work/wave/new/dash-to-explore.gif" alt="dashboard to explore" class="mw-100">
   </div>
-  <div class="w-20-l w-25-m w-100 grid-item load-three hide-child">
-    <img src="/assets/work/wave/dash-to-explore.gif" alt="dashboard to explore" class="mw-100">
+  <div class="w-25-l w-50-m w-100 grid-item load-four hide-child">
+    <img src="/assets/work/wave/new/explore-focus.gif" alt="focus" class="mw-100">
   </div>
-  <div class="w-20-l w-25-m w-100 grid-item load-four hide-child">
-    <img src="/assets/work/wave/explore-focus.gif" alt="focus" class="mw-100">
+  <div class="w-25-l w-50-m w-100 grid-item load-six hide-child">
+    <img src="/assets/work/wave/new/explore-drill.gif" alt="buttons" class="mw-100">
   </div>
-  <div class="w-40-l w-50-m w-100 grid-item load-two hide-child">
-    <img src="/assets/work/wave/chart-02.png" alt="dashboard" class="mw-100">
+  <div class="w-25-l w-50-m w-100 grid-item load-seven hide-child">
+    <img src="/assets/work/wave/new/explore-filter-drill.gif" alt="dropdown menus" class="mw-100">
   </div>
-  <div class="w-20-l w-25-m w-100 grid-item load-six hide-child">
-    <img src="/assets/work/wave/explore-drill.gif" alt="buttons" class="mw-100">
+  <div class="w-33-l w-33-m w-100 grid-item load-two hide-child">
+    <img src="/assets/work/wave/chart-01.png" alt="chart" class="mw-100">
   </div>
-  <div class="w-40-l w-50-m w-100 grid-item load-two hide-child">
-    <img src="/assets/work/wave/chart-03.png" alt="dashboard" class="mw-100">
+  <div class="w-33-l w-33-m w-100 grid-item load-two hide-child">
+    <img src="/assets/work/wave/chart-02.png" alt="chart" class="mw-100">
   </div>
-  <div class="w-20-l w-25-m w-100 grid-item load-seven hide-child">
-    <img src="/assets/work/wave/explore-filter-drill.gif" alt="dropdown menus" class="mw-100">
+  <div class="w-33-l w-33-m w-100 grid-item load-two hide-child">
+    <img src="/assets/work/wave/chart-03.png" alt="chart" class="mw-100">
   </div>
 </section>
