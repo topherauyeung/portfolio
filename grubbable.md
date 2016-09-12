@@ -4,7 +4,7 @@ title: grubbable / topher - designer
 permalink: /grubbable/
 ---
 
-<section class="mw-100 mw8-ns center ph4 z-1 relative mb4 mb5-ns mt6 mt0-ns">
+<section class="mw-100 mw8-ns center ph5-l ph4 z-1 relative mb4 mb5-ns mt6 mt0-ns">
   <h3 class="ml0 mv0 lh-title"><b class="serif fw5 f2">Grubbable</b></h3>
   <p class="f4 mh0 lh-copy mt2 mb2">
     <a href="http://grubbable.com" class="olive highlight"><b>Grubbable</b></a> is a Detroit-based tech company working to grow and support the local food movement by connecting consumers to restaurants that serve locally-sourced food and drinks, and offering them discounts to dine at those restaurants. I came on as a short-term consultant to revamp their visual brand, marketing web presence, and cross-platform mobile app. I produced various print collateral and worked closely with their development teams and contractors to ship their website and mobile apps.

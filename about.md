@@ -9,7 +9,7 @@ permalink: /about/
 </section>
 
 <section class="w-100 bg-teal">
-  <div class="mw-100 mw8-ns center pv4 ph4 z-1 relative mt0">
+  <div class="mw-100 mw8-ns center pv4 ph5-l ph4 z-1 relative mt0">
     <h2 class="serif fw5 pb1 pr3 f2 titular-underline-mint lh-title mt0 mv3 dib">
       Almost nobody calls me Topher in real life.
     </h2>
@@ -22,7 +22,7 @@ permalink: /about/
   </div>
 </section>
 
-<section class="mw-100 mw8-ns center pv0 ph4 z-1 relative">
+<section class="mw-100 mw8-ns center pv0 ph5-l ph4 z-1 relative">
   <p class="f4 lh-copy mt5">
     A random assortment of facts: I’m a two-time graduate school dropout (<a href="https://www.bethel.edu/seminary/academics/marital-family-therapy/" class="olive highlight"><b>one</b></a>, <a href="http://www.academyart.edu/academics/web-design/graduate" class="olive highlight"><b>two</b></a>), I obsessively watch every singing show on television, my drink of preference is oolong tea, organic chemistry was one of my favorite classes in college, Roller Coaster Tycoon was my favorite game as a kid, I frequently bemoan the lack of good Hainanese Chicken Rice in San Francisco, and I originally fell in love with design in junior high because of <a href="http://neopets.com" class="olive highlight"><b>Neopets</b></a> (which is apparently a <a href="https://twitter.com/soopa/status/716391958726336512" class="olive highlight"><b>common story</b></a>).
   </p>

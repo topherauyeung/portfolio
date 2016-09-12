@@ -1367,7 +1367,7 @@ html { overflow-y: scroll; }
 .load-eleven { -webkit-animation-delay: 2.5s; -moz-animation-delay: 2.5s; animation-delay: 2.5s; }
 .load-twelve { -webkit-animation-delay: 2.75s; -moz-animation-delay: 2.75s; animation-delay: 2.75s; }
 /** HERO IMAGES **/
-.hero-home { background-image: url( '/assets/photos/texture-01.jpg' ); background-repeat: no-repeat; }
+.hero-home { background-image: url( '/assets/photos/texture-03.jpg' ); background-repeat: no-repeat; }
 .hero-about { background-image: url( '/assets/photos/me.jpg' ); background-position: bottom center; background-repeat: no-repeat; }
 /** PROJECT IMAGES **/
 .loaves-1 { background-image: url( '/assets/work/loaves/composed-ingredients.jpg' ); background-position: center center; background-repeat: no-repeat; }

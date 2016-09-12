@@ -4,7 +4,7 @@ title: lettering & illustration / topher - designer
 permalink: /draw/
 ---
 
-<section class="mw-100 mw8-ns center ph4 z-1 relative mb4 mb5-ns mt6 mt0-ns">
+<section class="mw-100 mw8-ns center ph5-l ph4 z-1 relative mb4 mb5-ns mt6 mt0-ns">
   <h3 class="ml0 mv0 lh-title"><b class="serif fw5 f2">Lettering &amp; Illustration</b></h3>
   <p class="f4 mh0 lh-copy mt2 mb3">
     Lettering and illustration are fun artistic outlets where I can explore texture, composition, and character through a variety of mediums and materials. The work below spans a wide range of side projects, client projects, and work from my time at Salesforce.
