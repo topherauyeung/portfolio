@@ -7,7 +7,7 @@ permalink: /loaves/
 <section class="mw-100 mw8-ns center ph5-l ph4 z-1 relative mb2 mb4-ns mt6 mt0-ns">
   <h3 class="ml0 mv0 lh-title"><b class="serif fw5 f2">Loaves</b></h3>
   <p class="f4 mh0 lh-copy mt2 mb3">
-    Loaves was a low-cost meal kit subscription service, born of a desire to make healthy and delicious home cooking an easy, affordable, and convenient habit for anyone to develop. I was one of two co-founders, and was responsible for developing the physical product, developing new recipes, brand design, food production operations, and building out our technology. You can view the website <a href="http://loav.es" class="olive highlight"><b>here</b></a>, or scroll down for some snapshots of work I produced for Loaves.
+    Loaves was a low-cost meal kit subscription service, born of a desire to make healthy and delicious home cooking an easy, affordable, and convenient habit for anyone to develop. I was one of two co-founders, and was responsible for developing the physical product, developing new recipes, brand design, food production operations, and building out our technology. You can view the website <a href="http://loav.es" class="olive highlight"><b class="fw6">here</b></a>, or scroll down for some snapshots of work I produced for Loaves.
   </p>
   <small class="f5 fw7 mh0 ttu tracked silver mt0 lh-copy">Role: Cofounder, Product &amp; Design</small>
 </section>

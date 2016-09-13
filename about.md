@@ -17,20 +17,20 @@ permalink: /about/
       Which makes my insistence on using it online kind of misleading, I know. Fun fact though - growing up, it’s what all my uncles and aunties called me in their heavy Hong Kong accents (<i>toe-fahh</i>).
     </p>
     <p class="f3 lh-copy mb4">
-      But most people just call me <b>Chris</b>, or <b>Christopher</b> for long.
+      But most people just call me <b class="fw6">Chris</b>, or <b class="fw6">Christopher</b> for long.
     </p>
   </div>
 </section>
 
 <section class="mw-100 mw8-ns center pv0 ph5-l ph4 z-1 relative">
   <p class="f4 lh-copy mt5">
-    A random assortment of facts: I’m a two-time graduate school dropout (<a href="https://www.bethel.edu/seminary/academics/marital-family-therapy/" class="olive highlight"><b>one</b></a>, <a href="http://www.academyart.edu/academics/web-design/graduate" class="olive highlight"><b>two</b></a>), I obsessively watch every singing show on television, my drink of preference is oolong tea, organic chemistry was one of my favorite classes in college, Roller Coaster Tycoon was my favorite game as a kid, I frequently bemoan the lack of good Hainanese Chicken Rice in San Francisco, and I originally fell in love with design in junior high because of <a href="http://neopets.com" class="olive highlight"><b>Neopets</b></a> (which is apparently a <a href="https://twitter.com/soopa/status/716391958726336512" class="olive highlight"><b>common story</b></a>).
+    A random assortment of facts: I’m a two-time graduate school dropout (<a href="https://www.bethel.edu/seminary/academics/marital-family-therapy/" class="olive highlight"><b class="fw6">one</b></a>, <a href="http://www.academyart.edu/academics/web-design/graduate" class="olive highlight"><b class="fw6">two</b></a>), I obsessively watch every singing show on television, my drink of preference is oolong tea, organic chemistry was one of my favorite classes in college, Roller Coaster Tycoon was my favorite game as a kid, I frequently bemoan the lack of good Hainanese Chicken Rice in San Francisco, and I originally fell in love with design in junior high because of <a href="http://neopets.com" class="olive highlight"><b class="fw6">Neopets</b></a> (which is apparently a <a href="https://twitter.com/soopa/status/716391958726336512" class="olive highlight"><b class="fw6">common story</b></a>).
   </p>
   <p class="f4 lh-copy">
     I strive to live my life, personally and professionally, at the intersection of my passion for design, my deeply held faith, my convictions about social justice, and my love of people and community.
   </p>
   <p class="f4 mb4 lh-copy">
-    Interested in what I’ve done career-wise? Peek at my <a href="https://www.linkedin.com/in/cauyeung" class="olive highlight"><b>LinkedIn</b></a>.
+    Interested in what I’ve done career-wise? Peek at my <a href="https://www.linkedin.com/in/cauyeung" class="olive highlight"><b class="fw6">LinkedIn</b></a>.
   </p>
 
   <h2 class="mb3 fw6 f4 ttu tracked titular-underline-teal pb2 pr3 dib">Listening</h2>
@@ -117,7 +117,7 @@ permalink: /about/
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
       <h3 class="ml0 mv0 lh-title"><a href="https://www.gog.com/game/stardew_valley" class="olive highlight no-underline"><strong class="serif fw5 f3">Stardew Valley</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
-        An addictive modern take on the original farming RPG <a href="https://en.wikipedia.org/wiki/Harvest_Moon_(video_game)" class="olive highlight"><b>Harvest Moon</b></a>
+        An addictive modern take on the original farming RPG <a href="https://en.wikipedia.org/wiki/Harvest_Moon_(video_game)" class="olive highlight"><b class="fw6">Harvest Moon</b></a>
       </p>
       <small class="f5 fw7 ttu tracked silver mv0">ConcernedApe</small>
     </div>
