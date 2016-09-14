@@ -110,7 +110,7 @@ permalink: /about/
   </div>
 
   <h2 class="mt5 mb3 fw6 f4 ttu tracked titular-underline-teal pb2 pr3 dib">Playing</h2>
-  <div class="dt mw-100 pa0 mt3 mb5">
+  <div class="dt mw-100 pa0 mt3">
     <div class="mb2 mb0-ns db dtc-ns v-top-ns">
       <img src="/assets/about/stardew-valley.png" alt="Stardew Valley" class="w4" />
     </div>
@@ -122,4 +122,9 @@ permalink: /about/
       <small class="f5 fw7 ttu tracked silver mv0">ConcernedApe</small>
     </div>
   </div>
+
+  <h2 class="mt5 mb3 fw6 f4 ttu tracked titular-underline-gray pb2 pr3 dib">Colophon</h2>
+  <p class="pa0 mt3 f4 mb5">
+    This site was built using <a href="https://jekyllrb.com/" class="olive highlight"><b class="fw6">Jekyll</b></a>, <a href="http://tachyons.io/" class="olive highlight"><b class="fw6">Tachyons</b></a>, and <a href="http://packery.metafizzy.co/" class="olive highlight"><b class="fw6">Packery</b></a>.
+  </p>
 </section>

@@ -1010,6 +1010,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .hover-bg-light-red:hover { background-color: #ffd3c0; }
 .titular-underline-teal { border-bottom: 5px solid; border-color: #5AF3FF; }
 .titular-underline-mint { border-bottom: 5px solid; border-color: #A2FF8A; }
+.titular-underline-gray { border-bottom: 5px solid; border-color: #999; }
 /* Variables */
 /* Spacing Scale - based on a ratio of 1:2 */
 /* Media Queries */
