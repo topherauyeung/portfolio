@@ -124,7 +124,7 @@ permalink: /about/
   </div>
 
   <h2 class="mt5 mb3 fw6 f4 ttu tracked titular-underline-gray pb2 pr3 dib">Colophon</h2>
-  <p class="pa0 mt3 f4 mb5">
+  <p class="pa0 mt3 f4 lh-copy mb5">
     This site was built using <a href="https://jekyllrb.com/" class="olive highlight"><b class="fw6">Jekyll</b></a>, <a href="http://tachyons.io/" class="olive highlight"><b class="fw6">Tachyons</b></a>, and <a href="http://packery.metafizzy.co/" class="olive highlight"><b class="fw6">Packery</b></a>.
   </p>
 </section>
