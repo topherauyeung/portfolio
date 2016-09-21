@@ -95,22 +95,30 @@
 
 .highlight {
   position: relative;
+  opacity: 1;
   z-index: 0;
+  transition: opacity .15s ease-in;
+}
+.highlight:active {
+  opacity: .8; 
+  transition: opacity .15s ease-out;
 }
 
-.highlight:after {
-  content: '';
-  top: 15%;
-  left: -0.125rem;
-  width: 0;
-  height: 2rem;
-  background-color: var(--moon-gray);
-  position: absolute;
-  z-index: -9999;
-  transition: .5s ease;
-}
+@media (--breakpoint-not-small) {
+  .highlight:after {
+    content: '';
+    top: 15%;
+    left: -0.125rem;
+    width: 0;
+    height: 2rem;
+    background-color: var(--moon-gray);
+    position: absolute;
+    z-index: -9999;
+    transition: .5s ease;
+  }
 
-.highlight:hover:after,
-.highlight:focus:after {
-  width: 106%;
+  .highlight:hover:after,
+  .highlight:focus:after {
+    width: 106%;
+  }
 }
