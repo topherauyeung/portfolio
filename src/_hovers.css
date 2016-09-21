@@ -99,6 +99,11 @@
   z-index: 0;
   transition: opacity .15s ease-in;
 }
+.highlight:hover,
+.highlight:focus {
+  opacity: .5;
+  transition: opacity .15s ease-in;
+}
 .highlight:active {
   opacity: .8; 
   transition: opacity .15s ease-out;
