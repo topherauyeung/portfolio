@@ -98,7 +98,7 @@
   z-index: 0;
 }
 
-.highlight:before {
+.highlight:after {
   content: '';
   top: 15%;
   left: -0.125rem;
@@ -110,7 +110,7 @@
   transition: .5s ease;
 }
 
-.highlight:hover:before,
-.highlight:focus:before {
+.highlight:hover:after,
+.highlight:focus:after {
   width: 106%;
 }
