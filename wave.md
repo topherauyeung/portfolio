@@ -7,7 +7,7 @@ permalink: /wave/
 <section class="mw-100 mw8-ns center ph5-l ph4 z-1 relative mb4 mb5-ns mt6 mt0-ns">
   <h3 class="ml0 mv0 lh-title"><b class="serif fw5 f2">Salesforce Wave Analytics</b></h3>
   <p class="f4 mh0 lh-copy mt2 mb3">
-    With the acquisition of Edgespring, Salesforce made a strategic move into data visualization and business intelligence - but it needed to develop a strategy to incorporate Edgespring’s groundbreaking technology into its own product. I was a part of an experimental design labs team that concepted, prototyped, and tested the initial vision of what eventually became the Salesforce Wave Analytics mobile experience. Below, you'll find visual design and animated prototypes that I produced as a part of a 3-month engagement with the Edgespring team.
+    With the acquisition of Edgespring, Salesforce made a strategic move into data visualization and business intelligence - but it needed to develop a strategy to incorporate Edgespring’s groundbreaking technology into its own product. I was a part of an experimental design labs team that concepted, prototyped, and tested the initial vision of what eventually became the Salesforce Wave Analytics mobile experience. Below, you'll find visual design and animated prototypes that I produced as a part of a 3-month engagement with the Edgespring team. You can also check out the Invision prototype I created for user research <a href="https://salesforce.invisionapp.com/share/SM8O4UCUH" class="olive highlight"><b class="fw6">here</b></a>.
   </p>
   <small class="f5 fw7 mh0 ttu tracked silver mt0 lh-copy">Role: Product Design, Visual Design, Prototyping</small>
 </section>
