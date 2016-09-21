@@ -23,7 +23,7 @@ permalink: /loaves/
   </div>
   <div class="w-50-ns w-100 grid-item load-three relative loaves-illy-2 hide-child">
     <div class="w-100 h-100 bg-near-white-90 absolute child">
-      <a href="http://loav.es" class="dib pa4 olive f2 f-5-l fw6 absolute absolute--fill v-btm">View the<br> Loaves<br> Website</a>
+      <a href="http://loav.es/index-real.html" class="dib pa4 olive f2 f-5-l fw6 absolute absolute--fill v-btm">View the<br> Loaves<br> Website</a>
     </div>
     <img src="/assets/work/loaves/screenshot.jpg" alt="loaves screenshot" class="mw-100">
   </div>
