@@ -115,7 +115,7 @@ permalink: /about/
       <img src="/assets/about/his-dark-materials.png" alt="His Dark Materials" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="https://www.crunchyroll.com/haikyu" class="olive highlight no-underline"><strong class="serif fw5 f3">His Dark Materials</strong></a></h3>
+      <h3 class="ml0 mv0 lh-title"><a href="https://www.hbo.com/his-dark-materials" class="olive highlight no-underline"><strong class="serif fw5 f3">His Dark Materials</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
         Based on the classic fantasy novels by Philip Pullman
       </p>
