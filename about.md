@@ -24,7 +24,7 @@ permalink: /about/
 
 <section class="mw-100 mw8-ns center pv0 ph5-l ph4 z-1 relative">
   <p class="f4 lh-copy mt5">
-    A random assortment of facts: I’m a two-time graduate school dropout (<a href="https://www.bethel.edu/seminary/academics/marital-family-therapy/" class="olive highlight"><b class="fw6">one</b></a>, <a href="http://www.academyart.edu/academics/web-design/graduate" class="olive highlight"><b class="fw6">two</b></a>), I obsessively watch every singing show on television, my drink of preference is oolong tea, organic chemistry was one of my favorite classes in college, Roller Coaster Tycoon was my favorite game as a kid, I frequently bemoan the lack of good Hainanese Chicken Rice in San Francisco, and I originally fell in love with design in junior high because of <a href="http://neopets.com" class="olive highlight"><b class="fw6">Neopets</b></a> (which is apparently a <a href="https://twitter.com/soopa/status/716391958726336512" class="olive highlight"><b class="fw6">common story</b></a>).
+    A random assortment of facts: I’m a two-time graduate school dropout (<a href="https://www.bethel.edu/seminary/academics/marital-family-therapy/" class="olive highlight"><b class="fw6">one</b></a>, <a href="http://www.academyart.edu/academics/web-design/graduate" class="olive highlight"><b class="fw6">two</b></a>), I obsessively watch every singing show on television, my drink of preference is oolong tea, organic chemistry was one of my favorite classes in college, Roller Coaster Tycoon was my favorite game as a kid, I frequently bemoan the lack of good Hainanese Chicken Rice in San Francisco, and I originally fell in love with design in junior high because of <a href="http://neopets.com" class="olive highlight"><b class="fw6">Neopets</b></a> (which is apparently a <a href="https://twitter.com/soopa/status/716391958726336512" class="olive highlight"><b class="fw6">common story</b></a>). After six years as a designer, I finally got tired of making mock-ups and decided to learn how to code from some exceptionally generous and kind coworkers at <a href="http://www.remind.com" class="olive highlight">Remind</a>.
   </p>
   <p class="f4 lh-copy">
     I strive to live my life, personally and professionally, at the intersection of my passion for design, my deeply held faith, my convictions about social justice, and my love of people and community.
@@ -36,90 +36,90 @@ permalink: /about/
   <h2 class="mb3 fw6 f4 ttu tracked titular-underline-teal pb2 pr3 dib">Listening</h2>
   <div class="dt mw-100 pa0 mt3">
     <div class="mb2 mb0-ns db dtc-ns v-top-ns">
-      <img src="/assets/about/another-round.png" alt="Another Round" class="w4" />
+      <img src="/assets/about/mamas-boy.png" alt="mama's boy" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="https://www.buzzfeed.com/anotherround" class="olive highlight no-underline"><strong class="serif fw5 f3">Another Round</strong></a></h3>
+      <h3 class="ml0 mv0 lh-title"><a href="https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP?si=bLzItUETSQGskK65FxprPw" class="olive highlight no-underline"><strong class="serif fw5 f3">mama's boy</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
-        Two ridiculously delightful black women drink whiskey and talk culture, race, gender, and entertainment
+        Glossy Californian alt-pop vibes
       </p>
-      <small class="f5 fw7 ttu tracked silver mv0">Buzzfeed Media</small>
+      <small class="f5 fw7 ttu tracked silver mv0">LANY</small>
     </div>
   </div>
   <div class="dt mw-100 pa0 mt4">
     <div class="mb2 mb0-ns db dtc-ns v-top-ns">
-      <img src="/assets/about/the-weeds.png" alt="The Weeds" class="w4" />
+      <img src="/assets/about/julie-and-the-phantoms.png" alt="Julie and the Phantoms" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="http://www.vox.com/the-weeds" class="olive highlight no-underline"><strong class="serif fw5 f3">The Weeds</strong></a></h3>
+      <h3 class="ml0 mv0 lh-title"><a href="https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm?si=TwVRg34UROCuZ8BspeahJQ" class="olive highlight no-underline"><strong class="serif fw5 f3">Julie and the Phantoms</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
-        Policy and politics nerds having a weekly nerd-out over policy and politics
+        An absurdly delightful soundtrack for an absurdly delightful show
       </p>
-      <small class="f5 fw7 ttu tracked silver mv0">Vox Media</small>
+      <small class="f5 fw7 ttu tracked silver mv0">Netflix</small>
     </div>
   </div>
-  <div class="dt mw-100 pa0 mt4">
+  <div class="dt mw-100 pa0 mt3">
     <div class="mb2 mb0-ns db dtc-ns v-top-ns">
-      <img src="/assets/about/code-switch.png" alt="Code Switch" class="w4" />
+      <img src="/assets/about/queerology.png" alt="Queerology" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="http://www.npr.org/podcasts/510312/codeswitch" class="olive highlight no-underline"><strong class="serif fw5 f3">Code Switch</strong></a></h3>
+      <h3 class="ml0 mv0 lh-title"><a href="https://matthiasroberts.com/queerology/" class="olive highlight no-underline"><strong class="serif fw5 f3">Queerology</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
-        Race and ethnic identity: the podcast
+        Thoughtful conversations with, for, and about queer people of faith
       </p>
-      <small class="f5 fw7 ttu tracked silver mv0">NPR</small>
-    </div>
-  </div>
-  <div class="dt mw-100 pa0 mt4">
-    <div class="mb2 mb0-ns db dtc-ns v-top-ns">
-      <img src="/assets/about/1975.png" alt="the 1975" class="w4" />
-    </div>
-    <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4" class="olive highlight no-underline"><strong class="serif fw5 f3">I like it when you sleep, for you are so beautiful yet so unaware of it</strong></a></h3>
-      <p class="f4 lh-copy mt1 mb2">
-        Soulful and atmospheric alt-pop with catchy hooks, gorgeous instrumentation, and a fun 80’s flair
-      </p>
-      <small class="f5 fw7 ttu tracked silver mv0">The 1975</small>
+      <small class="f5 fw7 ttu tracked silver mv0">Matthias Roberts</small>
     </div>
   </div>
 
   <h2 class="mt5 mb3 fw6 f4 ttu tracked titular-underline-teal pb2 pr3 dib">Reading</h2>
   <div class="dt mw-100 pa0 mt3">
     <div class="mb2 mb0-ns db dtc-ns v-top-ns">
-      <img src="/assets/about/new-jim-crow.png" alt="The New Jim Crow" class="w4" />
+      <img src="/assets/about/new-jim-crow.png" alt="A Little Life" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="https://www.amazon.com/New-Jim-Crow-Incarceration-Colorblindness/dp/1595586431" class="olive highlight no-underline"><strong class="serif fw5 f3">The New Jim Crow</strong></a></h3>
+      <h3 class="ml0 mv0 lh-title"><a href="https://www.penguinrandomhouse.com/books/239717/a-little-life-by-hanya-yanagihara/" class="olive highlight no-underline"><strong class="serif fw5 f3">A Little Life</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
-        A compelling and comprehensive look at the racist history behind mass incarceration and the War on Drugs
+        A profoundly moving, traumatic, and sweeping tale about friendship and love
       </p>
-      <small class="f5 fw7 ttu tracked silver mv0">Michelle Alexander</small>
+      <small class="f5 fw7 ttu tracked silver mv0">Hanya Yanagihara</small>
     </div>
   </div>
   <div class="dt mw-100 pa0 mt4">
     <div class="mb2 mb0-ns db dtc-ns v-top-ns">
-      <img src="/assets/about/spiritual-friendship.png" alt="Spiritual Friendship" class="w4" />
+      <img src="/assets/about/spiritual-friendship.png" alt="Does Jesus Really Love Me?" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="https://www.amazon.com/Spiritual-Friendship-Finding-Celibate-Christian/dp/1587433494/" class="olive highlight no-underline"><strong class="serif fw5 f3">Spiritual Friendship</strong></a></h3>
+      <h3 class="ml0 mv0 lh-title"><a href="http://byjeffchu.com/book/" class="olive highlight no-underline"><strong class="serif fw5 f3">Does Jesus Really Love Me?</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
-        Making the case against the insular nature of the nuclear American family, and advocating for intimate, committed friendships that last a lifetime
+        A poignant look into the lived experiences of Christians across America grappling with the intersection of spirituality and sexuality
       </p>
-      <small class="f5 fw7 ttu tracked silver mv0">Wesley Hill</small>
+      <small class="f5 fw7 ttu tracked silver mv0">Jeff Chu</small>
     </div>
   </div>
 
-  <h2 class="mt5 mb3 fw6 f4 ttu tracked titular-underline-teal pb2 pr3 dib">Playing</h2>
+  <h2 class="mt5 mb3 fw6 f4 ttu tracked titular-underline-teal pb2 pr3 dib">Watching</h2>
   <div class="dt mw-100 pa0 mt3">
     <div class="mb2 mb0-ns db dtc-ns v-top-ns">
-      <img src="/assets/about/stardew-valley.png" alt="Stardew Valley" class="w4" />
+      <img src="/assets/about/haikyu.png" alt="Haikyu!!" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
-      <h3 class="ml0 mv0 lh-title"><a href="https://www.gog.com/game/stardew_valley" class="olive highlight no-underline"><strong class="serif fw5 f3">Stardew Valley</strong></a></h3>
+      <h3 class="ml0 mv0 lh-title"><a href="https://www.crunchyroll.com/haikyu" class="olive highlight no-underline"><strong class="serif fw5 f3">Haikyu!!</strong></a></h3>
       <p class="f4 lh-copy mt1 mb2">
-        An addictive modern take on the original farming RPG <a href="https://en.wikipedia.org/wiki/Harvest_Moon_(video_game)" class="olive highlight"><b class="fw6">Harvest Moon</b></a>
+        A charming and inspirational anime about a high school boy's volleyball team and their quest for greatness
       </p>
-      <small class="f5 fw7 ttu tracked silver mv0">ConcernedApe</small>
+      <small class="f5 fw7 ttu tracked silver mv0">Toho</small>
+    </div>
+  </div>
+  <div class="dt mw-100 pa0 mt3">
+    <div class="mb2 mb0-ns db dtc-ns v-top-ns">
+      <img src="/assets/about/his-dark-materials.png" alt="His Dark Materials" class="w4" />
+    </div>
+    <div class="db dtc-ns v-top pr0-ns pl3-ns">
+      <h3 class="ml0 mv0 lh-title"><a href="https://www.crunchyroll.com/haikyu" class="olive highlight no-underline"><strong class="serif fw5 f3">His Dark Materials</strong></a></h3>
+      <p class="f4 lh-copy mt1 mb2">
+        Based on the classic fantasy novels by Philip Pullman
+      </p>
+      <small class="f5 fw7 ttu tracked silver mv0">HBO</small>
     </div>
   </div>
 
