@@ -74,7 +74,7 @@ permalink: /about/
   <h2 class="mt5 mb3 fw6 f4 ttu tracked titular-underline-teal pb2 pr3 dib">Reading</h2>
   <div class="dt mw-100 pa0 mt3">
     <div class="mb2 mb0-ns db dtc-ns v-top-ns">
-      <img src="/assets/about/new-jim-crow.png" alt="A Little Life" class="w4" />
+      <img src="/assets/about/a-little-life.png" alt="A Little Life" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
       <h3 class="ml0 mv0 lh-title"><a href="https://www.penguinrandomhouse.com/books/239717/a-little-life-by-hanya-yanagihara/" class="olive highlight no-underline"><strong class="serif fw5 f3">A Little Life</strong></a></h3>
@@ -86,7 +86,7 @@ permalink: /about/
   </div>
   <div class="dt mw-100 pa0 mt4">
     <div class="mb2 mb0-ns db dtc-ns v-top-ns">
-      <img src="/assets/about/spiritual-friendship.png" alt="Does Jesus Really Love Me?" class="w4" />
+      <img src="/assets/about/does-jesus-really-love-me.png" alt="Does Jesus Really Love Me?" class="w4" />
     </div>
     <div class="db dtc-ns v-top pr0-ns pl3-ns">
       <h3 class="ml0 mv0 lh-title"><a href="http://byjeffchu.com/book/" class="olive highlight no-underline"><strong class="serif fw5 f3">Does Jesus Really Love Me?</strong></a></h3>
